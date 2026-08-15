@@ -11,6 +11,46 @@ Keywords: conservation technology, law enforcement monitoring, ecological monito
 
 # OWR Conservation Technology Strategy (2026–2030)
 
+***
+
+OWR Conservation Technology Strategy
+
+Okapi Wildlife Reserve, Ituri Region — Democratic Republic of the Congo
+
+Prepared by: Wildlife Conservation Society (WCS) — Conservation Technology Unit
+Date: 2026-08-15 | Version: 1.1
+
+***
+
+Executive Summary
+
+This concise strategy outlines a focused, five-year plan (2026–2030) to modernize OWR field operations, close data gaps, and strengthen biodiversity protection using appropriate conservation technologies. Priorities are: (1) digitize patrol reporting and incident response; (2) integrate camera traps, telemetry, acoustic sensors, eDNA, and satellite alerts into a unified ingestion and alerting pipeline; (3) apply AI and remote-sensing automation to reduce data-processing delays; and (4) build local capacity through targeted training and a certified trainer program. Expected outcomes: faster operational response, higher-quality monitoring data, measurable reductions in processing lag, and sustainable local ownership.
+
+Key Strategic Outcomes (short)
+- 100% digital patrol logging and near-real-time CCOPS visibility.
+- 80% reduction in camera-trap processing time after AI integration.
+- Rapid detection of canopy loss and illegal activity via automated alerts.
+- Trained local trainers sustaining operations and maintenance.
+
+Table of Contents
+
+1. Executive Summary & Strategic Vision
+2. Baseline Assessment & Operational Context
+3. Strategic Framework & Technical Architecture
+4. Core Implementation Pillars
+   4.1 Patrolling & Law Enforcement Monitoring (LEM)
+   4.2 Ecological & Environmental Monitoring
+   4.3 Conservation Social Science & Safeguarding
+   4.4 Data Science, Cartography & Impact Dashboards
+5. Hardware, Sensors & Integration Architecture
+6. Technical Support Structure & Technical Forums
+7. Phased Implementation Roadmap (2026–2028)
+8. Training Plan & Capacity Building
+9. References
+10. Annexes (Budget outline, Hardware lists, SOPs)
+
+---
+
 
 
 1. Executive Summary & Strategic Vision
