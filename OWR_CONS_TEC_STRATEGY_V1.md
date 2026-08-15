@@ -501,23 +501,9 @@ Roles & responsibilities (summary table)
 - Conservation Tech Unit: hardware, integration, and support.
 - Community Liaison: local engagement, consent processes, and dissemination.
 
-## Section: High-Level Budget Estimate (2026–2028)
+## Budget
 
-Assumptions
-- Costs are presented as order-of-magnitude estimates; local procurement and freight may vary.
-
-Cost categories (USD, rounded)
-- Hardware & sensors (camera traps, drones, collars, acoustic units): $350,000
-- Field devices & connectivity (rugged tablets, satellite comms, Garmin): $120,000
-- Middleware & cloud processing (Wildlife Insights credits, GFW alerts, hosting): $60,000/year
-- Training & capacity building (workshops, per diems, materials): $80,000
-- Operations & maintenance (spares, batteries, transport): $70,000/year
-- Personnel (PMU, data manager, technicians): $180,000/year
-- Contingency & security premiums: $60,000
-
-Total estimated first two-year cost (approx): $1,500,000
-
-Notes: refine with localized vendor quotes and donor agreement. Include lifecycle replacement costs in five-year planning.
+Budget information has been removed from this public strategy document. Detailed budgetary estimates and procurement plans are maintained by the PMU and available on request to authorized stakeholders.
 
 ## Section: Detailed Implementation Timeline (Gantt-style milestones)
 
