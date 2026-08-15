@@ -299,6 +299,65 @@ Summary: Open global mapping resource for base mapping, roads, and community-con
 - Optionally commit the new DOCX to the repo and include a commit message describing the update.
 
 
+## Annex A: Integrated RFO Data Protocol (summary)
+
+This annex synthesizes key elements from the RFO "DATA PROTOCOL" (Draft) found in the OWR repository. It formalizes data handling expectations across collection, processing, quality control, storage, visualization, and sharing.
+
+A.1 Purpose & Scope
+- Formalize how WCS/OWR collects, manages, analyzes, and publishes program data to ensure confidentiality, integrity, and usability for decision-making and reporting.
+- Applies to operational (patrols, incidents), ecological (camera traps, acoustic, eDNA), social science (Kobo/household surveys) and remote-sensing datasets produced by OWR programs.
+
+A.2 Key Roles & Responsibilities
+- MEAL Team / Data Manager: primary custodians for data ingestion, cleaning, validation, and archiving.
+- Database/IT: platform administration, access control, and backups.
+- Program Leads: dataset owners who approve dataset release and use.
+- CCOPS / Conservation Tech: responsible for operational sensor feeds, EarthRanger integrations, and near-real-time alerts.
+
+A.3 Data Collection & Tools
+- Approved collection tools: Kobo Collect (surveys), SMART/CyberTracker (patrols/LEM), Garmin/telemetry (tracking), camera trap platforms, acoustic recorders, eDNA sampling kits.
+- Use coded Unique Identifier Codes (UICs) for sensitive social data to separate personal identifiers from research datasets and protect confidentiality.
+- Recording: obtain consent for interviews/FGDs; audio recordings transcribed then deleted after transcription per the protocol.
+
+A.4 Data Flow & Ingestion
+- Primary ingestion pipeline: field tools → secure upload (Kobo/SMART/Device sync) → centralized staging (SharePoint / WCS-hosted DB) → cleaning/validation → approved clean datasets exported to analysis and dashboards (PowerBI, EarthRanger, StoryMaps).
+- For sensor data (camera traps, telemetry, acoustic): follow established ingestion routes into Wildlife Insights / EarthRanger / Gundi middleware for real-time or batched handling.
+
+A.5 Metadata, Formats & Standards
+- Capture metadata automatically where possible (device ID, start/end timestamps, GPS, operator ID).
+- Use standard export formats: CSV, XLSX, GeoJSON/Shapefiles for geodata, JSON/XML for APIs. Follow TDWG and other biodiversity metadata conventions where relevant.
+
+A.6 Data Processing & Deliverables
+- Data processing steps: initial QC, standard cleaning scripts, metadata enrichment, analysis-ready exports.
+- Expected deliverables: cleaned datasets, PowerBI/Impact dashboards, SMART reports, NRGT site reports, and periodic Data Audit Reports.
+- Estimated data volumes: plan for monthly volumes (50–1000 MB) depending on sensor deployments.
+
+A.7 Data Quality & Review
+- Implement Data Audit Forms (DAF) and quarterly Data Quality Audit Reports summarizing problems, corrective actions, responsible staff, and timelines.
+- Core QC checks: completeness, conformity, consistency, accuracy, eligibility.
+
+A.8 Storage, Archiving & Preservation
+- Raw and cleaned data stored with role-based access on SharePoint / WCS-hosted storage; archived copies retained according to project retention schedules.
+- Identify datasets for destruction and assign an archiving steward responsible for long-term preservation.
+
+A.9 Data Sharing & Diffusion
+- During project: controlled sharing among WCS project teams for analysis and operational response.
+- After project: publish non-sensitive datasets to public repositories (Zenodo, Figshare, GBIF where appropriate) with DOIs and clear licensing; sensitive data withheld or shared under data-sharing agreements.
+
+A.10 Visualization & Reporting
+- Use PowerBI, ArcGIS StoryMaps, and the WCS Impact Dashboard for internal and external reporting.
+- Define update frequency and dashboard roles (editors/viewers) and align data refresh schedules with ingestion cadence.
+
+A.11 Update Frequency & Governance
+- Review and update the Data Protocol annually or when major technical/operational changes occur.
+- Maintain a change log and dataset registry documenting versions, stewards, and access rules.
+
+A.12 Next steps for technical integration
+- Incorporate RFO protocol metadata and DAF templates into the OWR Data Governance folder.
+- Automate ingestion pipelines for Kobo, SMART, and camera-trap exports; connect to Gundi/EarthRanger where applicable.
+- Schedule MEAL–ConservationTech joint workshops to operationalize QC checks, DAF usage, and archiving responsibilities.
+
+---
+
 ## References
 
 1. WCS Impact Dashboards — Wildlife Conservation Society. https://impact.wcs.org/en-us/Dashboards
