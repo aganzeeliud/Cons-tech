@@ -482,3 +482,155 @@ Next steps (updated)
 - Regenerate Word doc and commit the updated files.
 
 (End of draft)
+## Section: Governance, Partnerships & Roles
+
+Governance model
+- Steering Committee: senior representatives from ICCN, WCS, local government, and community leaders; meets quarterly to review progress and approve strategic decisions.
+- Technical Advisory Group: subject-matter experts (conservation tech, data science, remote sensing, One Health) providing guidance on methodology and procurement.
+- Project Management Unit (PMU): day-to-day project coordination, budget management, reporting, and liaison with CCOPS.
+
+Partnerships
+- Academic partners: research design, sample protocols, and peer-reviewed outputs.
+- Technical partners: sensor providers, Wildlife Insights, SMART, EarthRanger, and GIS vendors.
+- Funding partners: donor coordination for phased procurement and operational costs.
+
+Roles & responsibilities (summary table)
+- PMU: overall delivery, procurement oversight, donor reporting.
+- CCOPS/ICCN: operational approvals, security guidance, field deployments.
+- MEAL/Data Manager: data governance, QC, archiving, and dashboards.
+- Conservation Tech Unit: hardware, integration, and support.
+- Community Liaison: local engagement, consent processes, and dissemination.
+
+## Section: High-Level Budget Estimate (2026–2028)
+
+Assumptions
+- Costs are presented as order-of-magnitude estimates; local procurement and freight may vary.
+
+Cost categories (USD, rounded)
+- Hardware & sensors (camera traps, drones, collars, acoustic units): $350,000
+- Field devices & connectivity (rugged tablets, satellite comms, Garmin): $120,000
+- Middleware & cloud processing (Wildlife Insights credits, GFW alerts, hosting): $60,000/year
+- Training & capacity building (workshops, per diems, materials): $80,000
+- Operations & maintenance (spares, batteries, transport): $70,000/year
+- Personnel (PMU, data manager, technicians): $180,000/year
+- Contingency & security premiums: $60,000
+
+Total estimated first two-year cost (approx): $1,500,000
+
+Notes: refine with localized vendor quotes and donor agreement. Include lifecycle replacement costs in five-year planning.
+
+## Section: Detailed Implementation Timeline (Gantt-style milestones)
+
+Year 1 (Q3 2026 – Q2 2027)
+- Q3 2026: Procurement of SMART Mobile devices; Train-the-Trainer bootcamp.
+- Q4 2026: Full digitization of patrol forms; EarthRanger dashboard customization.
+- Q1 2027: Deploy Gundi middleware; begin sensor ingestion (camera traps & telemetry).
+- Q2 2027: Drone SOP certification; pilot eDNA sampling sites.
+
+Year 2 (Q3 2027 – Q2 2028)
+- Q3 2027: Wildlife Insights AI integration for camera traps; deploy acoustic arrays.
+- Q4 2027: Automate GFW alerts into CCOPS; scale telemetry collars.
+- Q1 2028: Public-facing story maps; donor reporting dashboard live.
+- Q2 2028: Review & adaptive management; plan Phase II procurement.
+
+## Section: Monitoring, Evaluation & Learning (MEL) Framework
+
+Objectives
+- Track delivery against KPIs and ensure continuous improvement based on evidence.
+
+Core indicators
+- Output: # devices issued, # staff trained, # sensors deployed.
+- Outcome: % digital ingestion within 24 hours, reduction in camera-trap processing time, # confirmed threat incidents detected via sensor fusion.
+- Impact: trends in poaching incidents, population indices for focal species (okapi, forest elephant), habitat loss rate.
+
+Reporting cadence
+- Weekly operational briefs (CCOPS), monthly program reports (PMU), quarterly steering reviews, annual external evaluation.
+
+Learning loop
+- Use quarterly data quality audits to refine forms, SOPs, and dashboard metrics. Publish lessons learned openly where appropriate.
+
+## Section: Risk Assessment & Mitigation
+
+Top risks and mitigations
+1. Security threats to field teams and hardware
+   - Mitigation: Drone reconnaissance, concealed logistics, insurance & recovery protocols, close CCOPS coordination.
+2. Data breaches exposing sensitive locations
+   - Mitigation: Encryption, access control, data minimization, aggregated public releases.
+3. Equipment failure in high-humidity conditions
+   - Mitigation: IP-rated housings, spares kits, local maintenance training, climate-specific battery care.
+4. Community resistance or misunderstandings
+   - Mitigation: Early engagement, consent protocols, community monitoring roles, benefit-sharing.
+5. Funding shortfalls
+   - Mitigation: phased rollouts, prioritized procurements, diversify donor base.
+
+## Section: Procurement & Supply Chain
+
+Procurement principles
+- Prefer proven field-hardened equipment; prioritize local suppliers where feasible; include warranties and spare parts.
+
+Procurement steps
+1. Develop technical specifications (TS) for each major category.
+2. Request for Quotes (RFQ) from at least 3 vendors.
+3. Technical evaluation by PMU/Tech Advisory; pilot acceptance tests.
+4. Award contract with service-level agreements and training commitments.
+
+Logistics
+- Consolidate shipping to regional hub; plan cold-chain only for specific lab materials; ensure customs paperwork and permits.
+
+## Section: Operations & Maintenance Plan
+
+Maintenance tiers
+- Level 1: Field team routine checks (daily pre/post patrol checks).
+- Level 2: On-site repairs and spare-part swaps by trained technicians.
+- Level 3: Vendor-level repairs with RMA and advanced diagnostics.
+
+Spare parts strategy
+- Maintain a rotating kit per field station: 2 sets of propellers, 4 batteries per drone, 2 SD cards per camera trap, solar chargers, and waterproof connectors.
+
+Service schedules
+- Monthly device health checks, quarterly firmware audits, annual full inventory and calibration.
+
+## Section: Community Engagement & Safeguarding
+
+Principles
+- Free, prior, and informed consent; benefit-sharing; cultural sensitivity; data protection for indigenous peoples.
+
+Activities
+- Community briefings before new sensor deployments; inclusion of community monitors in patrol support; local hire and stipends for technicians.
+
+Safeguarding
+- Gender-based safeguarding; confidentiality for sensitive socio-economic data; grievance mechanisms.
+
+## Section: Legal, Ethical & Compliance
+
+Legal checks
+- Ensure drone operations comply with national aviation regulations; permits sought from ICCN and civil aviation authorities.
+
+Ethics
+- Follow One Health principles; avoid undue disturbance; anonymize sensitive biodiversity locations in public outputs.
+
+Data licensing
+- Default: cleaned ecological datasets licensed under CC-BY for scientific reuse; sensitive datasets under controlled access agreements.
+
+## Section: Annexes (expanded)
+
+Annex 1: RFO Data Protocol (full text reference document)
+Annex 2: Drone Protocol & SOPs (full manual)
+Annex 3: SOP one-pagers (attached PDFs)
+Annex 4: Equipment & Vendor list (procurement-ready)
+Annex 5: Training curricula and assessment templates
+Annex 6: MEL indicator definitions and calculation methods
+
+## Glossary
+
+- CCOPS: Centralised Command & Operations
+- DAF: Data Audit Form
+- eDNA: Environmental DNA
+- GFW: Global Forest Watch
+- GLAD/RADD: Satellite alert systems for deforestation
+- LEM: Law Enforcement Monitoring
+- MEAL: Monitoring, Evaluation, Accountability & Learning
+- PMU: Project Management Unit
+- RFO: Réserve de Faune à Okapis
+- UIC: Unique Identifier Code
+
