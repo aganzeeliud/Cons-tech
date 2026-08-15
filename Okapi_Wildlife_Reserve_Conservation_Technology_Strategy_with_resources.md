@@ -261,4 +261,53 @@ References & Resource Directory (original doc links retained)
 - CIEEM Conservation Technology Review: https://cieem.net/conservation-technology-a-game-changer-rewilding-tech/
 - WILDLABS State of Conservation Tech: https://wildlabs.net/state-of-conservation-technology
 
+
+23) Zooniverse
+URL: https://www.zooniverse.org
+Summary: Global citizen-science platform enabling public participation in data annotation and species identification workflows; useful for scaling image/audio classification and engaging communities in verification.
+
+24) Conservation X Labs (CXL)
+URL: https://conservationxlabs.com
+Summary: An innovation hub that accelerates conservation technology solutions and market-based approaches to protect ecosystems; useful for partnerships, prototyping, and tech-for-good initiatives.
+
+25) Re:wild
+URL: https://www.rewild.org
+Summary: Global conservation organization focused on species recovery and landscape-scale protection; a partner and funder resource for large-scale conservation projects.
+
+9. Expanded Training Plan (OWR Conservation Technology Capacity Building)
+
+Objectives
+- Equip ranger teams, CCOPS staff, and community monitors with practical skills to operate, maintain, and troubleshoot deployed hardware and software.
+- Build local trainers to sustain systems and reduce external dependence.
+- Improve data quality, timeliness, and analytic capacity for evidence-based decisions.
+
+Curriculum Modules
+- Device operation & field best-practices: Garmin devices, rugged smartphones, camera trap deployment, acoustic recorder handling, power management.
+- SMART / CyberTracker mobile workflows: form design, offline sync, QA checks, incident reporting.
+- EarthRanger & CCOPS dashboard use: live monitoring, incident triage, sensor integration, alerting.
+- Camera trap & Wildlife Insights pipeline: deployment protocols, image management, basic AI review and validation.
+- Acoustic & eDNA basics: deployment, sample chain-of-custody, metadata standards.
+- Data governance, metadata, and open-data practices: TDWG standards, data licensing, sensitive data handling.
+- GIS & dashboard storytelling: basic QGIS/ArcGIS Online tasks, map creation, and preparing story maps for stakeholders.
+
+Training Approach
+- Phase 1: Intensive 10-day in-person bootcamps for core staff (rangers, CCOPS, data team).
+- Phase 2: Two-week field mentorships pairing local trainers with teams during routine patrols and sensor deployments.
+- Phase 3: "Train-the-Trainer" certification: select 8–10 local staff for trainer certification and refresher schedule.
+- Continuous: Quarterly remote refresher workshops and annual assessment exercises.
+
+Assessment & KPIs
+- # staff trained and certified (target: 100% of ranger teams trained by end of Phase 1).
+- Data latency reduction (target: 80% of patrol reports ingested digitally within 24 hours).
+- Data quality metrics: percentage of complete records, GPS accuracy, correct species IDs after AI validation.
+
+Budget & Resources (high-level)
+- Training materials, translation/localization, per diems, and travel for trainers.
+- Spare hardware kit per team (batteries, SD cards, charging banks, spare sensors).
+- Modest budget for cloud processing credits (Wildlife Insights, GFW alerts) and internet connectivity at CCOPS.
+
+Next steps (updated)
+- Append three new resources and training plan into the DOCX.
+- Regenerate Word doc and commit the updated files.
+
 (End of draft)
