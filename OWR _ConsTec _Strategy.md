@@ -358,6 +358,52 @@ A.12 Next steps for technical integration
 
 ---
 
+## Annex B: Drone Protocol (RFO) — key points
+
+This annex summarizes operational and ethical guidance from the Protocole Drone RFO (DRAFT V4) to ensure safe, secure, and scientifically rigorous drone deployments across OWR.
+
+B.1 Purpose & Role
+- Drones are deployed for tactical reconnaissance, biosurveillance, habitat mapping, and to reduce risk to ground teams in insecure areas; mission types include species counts, thermal surveys, deforestation mapping, and patrol support.
+
+B.2 Operating Principles
+- Conform to ICCN and CCOPS-RFO security directives; minimize disturbance to wildlife and communities; apply One Health and ethical considerations in mission design.
+- Use appropriate sensors (thermal radiometric, multispectral/optical) matched to objectives; prioritize minimal-visibility flight profiles.
+
+B.3 Mission Planning (POP)
+- Define objectives, select payload, obtain clearances, design routes avoiding sensitive zones, and set emergency retraction/exfiltration plans.
+- Pre-flight checks: battery thresholds (min 80%), sensor calibration, SD card formatting (U3), telemetry verification.
+
+B.4 Flight Parameters & Safety
+- Altitude: 50–120 m recommended; maintain VLOS with pilot/observer; avoid flights in heavy precipitation or winds >35 km/h.
+- Satellite/GPS minimum: 12 satellites; battery rule of thirds for safe return.
+
+B.5 Roles & Organization
+- Unit Lead: mission approval and liaison with CCOPS.
+- Pilot (certified): aircraft operation and safety.
+- Visual Observer: airspace/ground safety and radio comms.
+- Data Steward (GIS/Analyst): secure retrieval, QA, encryption, and archiving.
+
+B.6 Data Handling & Security
+- Immediate post-mission: decrypt/sanitize, transfer to encrypted server, and log mission metadata (timestamps, coordinates, sensor settings, incidents) in Operations Journal.
+- Restrict publication/sharing of precise species/locality coordinates; anonymize or aggregate sensitive locations before external release.
+- Store media in secure, climate-controlled storage; enforce encryption on portable media.
+
+B.7 Ethical & Community Considerations
+- Never image civilians or Indigenous peoples without consent; avoid sacred/cultural sites; pause flights if community disturbance is detected.
+
+B.8 Maintenance & Logistics
+- Climate-aware battery care (avoid storage >48h at full charge in high heat/humidity); use Pelican cases and desiccants; follow LiPo safety protocols.
+
+B.9 Incident Management
+- Record GPS last-known for crashes; prioritize team safety in recovery; if drone compromised by hostiles, do not attempt risky retrieval.
+- Document cybersecurity incidents and switch to manual/ATTI mode if anomalous behavior detected.
+
+B.10 Training Implications
+- Integrate drone SOPs into training modules: pre-flight checks, mission planning, ethics, emergency response, data security, maintenance, and post-mission processing.
+- Certify a cadre of pilots, observers, and data stewards as part of the Train-the-Trainer program.
+
+---
+
 ## References
 
 1. WCS Impact Dashboards — Wildlife Conservation Society. https://impact.wcs.org/en-us/Dashboards
