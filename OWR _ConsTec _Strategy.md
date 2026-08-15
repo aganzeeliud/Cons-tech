@@ -1,9 +1,17 @@
-CONSERVATION TECHNOLOGY STRATEGY
-OKAPI WILDLIFE RESERVE (OWR) — ITURI REGION, DEMOCRATIC REPUBLIC OF CONGO
-Organization: Wildlife Conservation Society (WCS)
-Target Site: Okapi Wildlife Reserve (OWR)
-Document Scope: Technology Strategy & Data Management
-Implementation Period: 2026 – 2030
+---
+Title: OWR Conservation Technology Strategy
+Subtitle: Okapi Wildlife Reserve — Ituri Region, Democratic Republic of the Congo
+Author: Wildlife Conservation Society (WCS) — Conservation Technology Unit
+Prepared-by: WCS Conservation Tech & OWR CCOPS
+Contact: conservationtech@wcs.org
+Date: 2026-08-15
+Version: 1.0
+Keywords: conservation technology, law enforcement monitoring, ecological monitoring, data management
+---
+
+# OWR Conservation Technology Strategy (2026–2030)
+
+
 
 1. Executive Summary & Strategic Vision
 
@@ -250,18 +258,36 @@ Summary: Open global mapping resource for base mapping, roads, and community-con
 - Convert this consolidated markdown into a Word (.docx) file and save as "Okapi_Wildlife_Reserve_Conservation_Technology_Strategy_with_resources.docx" in the repository.
 - Optionally commit the new DOCX to the repo and include a commit message describing the update.
 
----
 
-References & Resource Directory (original doc links retained)
-- WCS Impact Dashboards: https://impact.wcs.org/en-us/Dashboards
-- SMART Partnership & Tools: https://www.smartconservationtools.org
-- EarthRanger Protected Area Management: https://www.earthranger.com
-- Wildlife Insights AI Camera Trapping: https://www.wildlifeinsights.org
-- Global Forest Watch Canopy Monitoring: https://www.globalforestwatch.org
-- CIEEM Conservation Technology Review: https://cieem.net/conservation-technology-a-game-changer-rewilding-tech/
-- WILDLABS State of Conservation Tech: https://wildlabs.net/state-of-conservation-technology
+## References
 
+1. WCS Impact Dashboards — Wildlife Conservation Society. https://impact.wcs.org/en-us/Dashboards
+2. SMART Conservation Tools — SMART Partnership. https://www.smartconservationtools.org
+3. EarthRanger — Vulcan Inc. / EarthRanger Platform. https://www.earthranger.com
+4. Wildlife Insights — Smithsonian, Microsoft & partners (AI camera-trap platform). https://www.wildlifeinsights.org
+5. Global Forest Watch — World Resources Institute (forest monitoring & alerts). https://www.globalforestwatch.org
+6. CIEEM — Conservation Technology overview (analysis & sector commentary). https://cieem.net/conservation-technology-a-game-changer-rewilding-tech/
+7. WILDLABS — State of Conservation Technology (community hub & syntheses). https://wildlabs.net/state-of-conservation-technology
+8. CyberTracker — Field data collection for non-literate trackers. https://www.cybertracker.org
+9. KoboToolbox — Mobile data collection for field and humanitarian contexts. https://www.kobotoolbox.org
+10. OpenFn — Integration middleware for humanitarian & conservation data. https://openfn.org
+11. AudioMoth — Low-cost acoustic recorder project. https://audiomoth.github.io
+12. Wildlife Acoustics — Commercial bioacoustics solutions. https://www.wildlifeacoustics.com
+13. GBIF — Global Biodiversity Information Facility (occurrence data). https://www.gbif.org
+14. Movebank — Animal movement data repository and tools. https://www.movebank.org
+15. TDWG — Biodiversity Information Standards (data & metadata standards). https://www.tdwg.org
+16. Google Earth Engine — Planetary-scale geospatial analysis. https://earthengine.google.com
+17. ArcGIS / StoryMaps — Esri ArcGIS Online & StoryMaps for visualization. https://www.arcgis.com
+18. ODK (Open Data Kit) — Offline-capable mobile forms and ecosystem. https://getodk.org
+19. DataONE — Distributed infrastructure for Earth observational data. https://www.dataone.org
+20. Zenodo — Open research data repository (DOIs). https://zenodo.org
+21. Figshare — Research data sharing platform. https://figshare.com
+22. OpenStreetMap — Community mapping platform and basemap. https://www.openstreetmap.org
+23. Zooniverse — Citizen science platform for classification & annotation. https://www.zooniverse.org
+24. Conservation X Labs (CXL) — Innovation hub accelerating conservation tech. https://conservationxlabs.com
+25. Re:wild — Conservation organization focused on species recovery. https://www.rewild.org
 
+Notes: URLs were accessed during draft compilation; some sites apply bot protections or redirects. Include DOIs or archived copies when required for formal citation.
 23) Zooniverse
 URL: https://www.zooniverse.org
 Summary: Global citizen-science platform enabling public participation in data annotation and species identification workflows; useful for scaling image/audio classification and engaging communities in verification.
